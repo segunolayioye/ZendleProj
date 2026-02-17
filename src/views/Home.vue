@@ -1,6 +1,6 @@
 <template>
     <div class=" bg-white w-full h-full">
-   <img src="/src/assets/vector 142.svg" class="w-full absolute top-0 left-0 z-0 pointer-events-none" alt="orangle flare">
+   <img src="/src/assets/orangerose.svg" class="w-full absolute top-0 left-0 z-0 pointer-events-none" alt="orangle flare">
    <div class="flex justify-center gap-[980px] py-6">
      <h1 class="text-black font-bold text-[30px]">Zendle</h1>
      <button class="bg-black text-white rounded-full px-7 py-1 gap-3 flex items-center">
